@@ -1,5 +1,12 @@
 # pyth0ma
+
 * ### Author
 	vk.com/poketoff
-* ### description
+
+
+* ### Description
 	yo fuck boy why you need description?
+
+
+* ### Version
+	This is testing version, wait next commit ^-^
