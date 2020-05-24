@@ -1,5 +1,7 @@
 from colorama import Fore, Back, Style
-
+import requests,re,os
+import time
+import sys
 
 def StringPythoma():
 	print("""
@@ -9,5 +11,6 @@ def StringPythoma():
 ██╔═══╝░░░╚██╔╝░░░░░██║░░░██╔══██║██║░░██║██║╚██╔╝██║██╔══██║
 ██║░░░░░░░░██║░░░░░░██║░░░██║░░██║╚█████╔╝██║░╚═╝░██║██║░░██║
 ╚═╝░░░░░░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝
-													 POKETOFF
+                                                     POKETOFF
+\033[1;31m1)\033[1;37mUnited States
 """ + Fore.RED)

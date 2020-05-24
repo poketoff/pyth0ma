@@ -1,4 +1,5 @@
 from colorama import Fore, Back, Style
+from lib.StringPythoma import StringPythoma
 
 
-from lib.string import String
+StringPythoma()
