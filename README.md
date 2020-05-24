@@ -1,3 +1,3 @@
 # pyth0ma
-* Author: [@poketoff](vk.com/poketoff)
+* Author:(vk.com/poketoff)
 yo fuck boy why you need description?
